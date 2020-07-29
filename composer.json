@@ -1,5 +1,5 @@
 {
-    "name": "dkorsak/doctrine-data-fixture-module",
+    "name": "valerialevenets/doctrine-data-fixture-module",
     "description": "Zend Framework 3 Module that provides Doctrine Data-Fixture functionality",
     "type": "library",
     "license": "MIT",
